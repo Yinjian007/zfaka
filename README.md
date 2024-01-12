@@ -53,5 +53,5 @@ git clone https://github.com/zlkbdotnet/zfaka.git
 */2 * * * * php -q /alidata/wwwroot/faka.zlkb.net/public/cli.php request_uri="/crontab/sendemail/index"
 </pre> 	
 	
-# 三、BUG与问题反馈
-   请联系我QQ:43036456
+# 三、修改人
+   JJKJ 
